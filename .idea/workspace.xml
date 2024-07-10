@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf75d78d-3117-49bc-9beb-01b2b5680827" name="Changes" comment="Home_Work_django" />
+    <list default="true" id="cf75d78d-3117-49bc-9beb-01b2b5680827" name="Changes" comment="Home_Work_django&#10;&#10;Signed-off-by: Ruslan &lt;ruslan.salmin@gmail.com&gt;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -33,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RunManager">
@@ -68,6 +77,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cf75d78d-3117-49bc-9beb-01b2b5680827" name="Changes" comment="" />
@@ -84,13 +96,30 @@
       <option name="project" value="LOCAL" />
       <updated>1720608905361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Home_Work_django&#10;&#10;Signed-off-by: Ruslan &lt;ruslan.salmin@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1720611717832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720611717832</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Home_Work_django&#10;&#10;Signed-off-by: Ruslan &lt;ruslan.salmin@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1720612069152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720612069152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Home_Work_django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home_Work_django" />
+    <MESSAGE value="Home_Work_django&#10;&#10;Signed-off-by: Ruslan &lt;ruslan.salmin@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home_Work_django&#10;&#10;Signed-off-by: Ruslan &lt;ruslan.salmin@gmail.com&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
